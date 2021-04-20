@@ -24,7 +24,7 @@ SECRET_KEY = 'f5gwnr@ke!t8w=@x_brmq3+^qw1ru9jd^*-hl!to#kfu(q)0*m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','priya-ecommerce.herokuapp.com']
 
 
 # Application definition
